@@ -1,0 +1,4 @@
+{
+    "extends": "@movie-streaming-ui/tsconfig/react/tsconfig.json",
+    "include": ["src"]
+}
