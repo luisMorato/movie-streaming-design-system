@@ -25,7 +25,7 @@ const config: StorybookConfig = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/Design-System/'
+      config.base = '/movie-streaming-design-system/'
     }
 
     return config
